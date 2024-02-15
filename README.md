@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>SIEM in Azure</b>
-<p>The purpose of this project is to demonstrate how to set up a SIEM in Azure, monitor live attacks and create a visual representation of the frequency and place from where such attacks come. </p>
-  - [Practising SIEM visualisation](https://github.com/flavioaugustorepo/LABURL)
+- <b>Vulnerability Managament in Nessus</b>
+<p>The purpose of this project is to demonstrate how to set up a Windows Virtual machine, expose it, and run a scan to identify and patch existing vulnerabilities. </p>
+  - [Practising Vulnerability Management visualisation](https://github.com/flavioaugustorepo/LABURL)
 
-<b>Another project will go here later...</b>
+<b>Update a file through a Python algorithm</b>
 <p>Sample text</p>
 
 <b>Another project will go here later...</b>
