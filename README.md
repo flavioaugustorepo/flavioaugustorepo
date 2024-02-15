@@ -4,7 +4,7 @@
 
 - <b>Vulnerability Managament in Nessus</b>
 <p>The purpose of this project is to demonstrate how to set up a Windows Virtual machine, expose it, and run a scan to identify and patch existing vulnerabilities. </p>
-  - [Practising Vulnerability Management visualisation](https://github.com/flavioaugustorepo/LABURL)
+  - [Practising Vulnerability Management visualisation](https://github.com/flavioaugustorepo/VulnerabilityLab)
 
 <b>Update a file through a Python algorithm</b>
 <p>Sample text</p>
