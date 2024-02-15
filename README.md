@@ -13,8 +13,6 @@
 - <b>Google Cybersecurity Certificate</b>
   - [Python, SIEM tools, SQL, Linux, Intrusion Detection Systems, Networks](https://coursera.org/share/eb57e69f0b1f12b2b94bd6d2335afdec)
 
-<h2> 🤳 Connect with me on LinkedIn:</h2>
+<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Flávio Augusto, LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/flavio-brito
+[LinkedIn](https://linkedin.com/in/flavio-brito)
