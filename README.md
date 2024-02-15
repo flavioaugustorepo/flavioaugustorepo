@@ -1,4 +1,4 @@
-<h1>Hi, I'm Flávio! <br/><a href="https://github.com/flavioaugustorepo">Frontend Developer</a>, <a href="https://www.linkedin.com/in/flavio-brito/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Flávio! <br/><a href="https://www.linkedin.com/in/flavio-brito/">Frontend Developer</a> and <a href="https://www.linkedin.com/in/flavio-brito/">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -6,15 +6,14 @@
   - [Practising Vulnerability Management visualisation](https://github.com/flavioaugustorepo/VulnerabilityLab)
 
 - <b>Python file management</b>
-  - [Updating a file through Python](https://github.com/flavioaugustorepo/LABURL)
+  - [Updating a file through Python](https://github.com/flavioaugustorepo/PythonFileLab)
 
-<b>Another project will go here later...</b>
-<p>Sample text</p>
+<h2>👨‍💻 Cybersecurity Certifications:</h2>
 
-<b>Another project will go here later...</b>
-<p>Sample text</p>
+- <b>Google Cybersecurity Certificate</b>
+  - [Python, SIEM tools, SQL, Linux, Intrusion Detection Systems, Networks](https://coursera.org/share/eb57e69f0b1f12b2b94bd6d2335afdec)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Flávio Augusto, LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
