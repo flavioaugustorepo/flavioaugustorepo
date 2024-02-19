@@ -2,11 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Vulnerability Managament in Nessus</b>
+- <b>Vulnerability Management in Nessus</b>
   - [Practising Vulnerability Management visualisation](https://github.com/flavioaugustorepo/VulnerabilityLab)
 
 - <b>Python file management</b>
   - [Updating a file through Python](https://github.com/flavioaugustorepo/PythonFileLab)
+ 
+- <b>Security audit and compliance</b>
+  - [Performing a general security audit and documenting through Jupyter Notebook](https://github.com/flavioaugustorepo/ComplianceLab)
 
 <h2>👨‍💻 Cybersecurity Certifications:</h2>
 
